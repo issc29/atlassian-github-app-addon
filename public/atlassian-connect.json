@@ -6,7 +6,7 @@
       "name": "T Osowski",
       "url": "https://github.com"
    },
-   "baseUrl": "https://atlassian-github-app-addon.herokuapp.com/",
+   "baseUrl": "https://jira-bot-issc29.herokuapp.com/",
    "authentication": {
       "type": "none"
    },
